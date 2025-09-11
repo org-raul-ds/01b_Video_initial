@@ -1,20 +1,3 @@
-# bare_java
+# Software Design Practical Class
 
-A minimal Java project template for the labs of the subject _Software Design_ at the University of Oviedo.
-
-## Features
-
-- Maven wrapper
-- Exec plugin to run the application easily
-
-### Run
-
-To run the application on Windows:
-```cmd
-run.cmd
-```
-
-To run the application on Unix-based systems:
-```bash
-./run.sh
-```
+The explanation and the solution to this exercise will be presented during the class. You can also find the solution [here](https://github.com/ds-raul/01b_Video_solution).
