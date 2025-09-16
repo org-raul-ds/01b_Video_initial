@@ -11,6 +11,7 @@ public class Main {
         Movie zombiesParty = new Movie("Zombies Party", Movie.STANDARD);
 
         Client raul = new Client("Raúl");
+
         raul.addRental(new Rental(hotFuzz, 2));
         raul.addRental(new Rental(toyStory, 6));
         raul.addRental(new Rental(zombiesParty, 8));
