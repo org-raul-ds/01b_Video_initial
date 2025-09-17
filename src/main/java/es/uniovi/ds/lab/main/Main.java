@@ -10,7 +10,7 @@ public class Main {
         Movie toyStory = new Movie("Toy Story", Movie.CHILDREN);
         Movie zombiesParty = new Movie("Zombies Party", Movie.STANDARD);
 
-        Client raul = new Client("Raúl");
+        Customer raul = new Customer("Raúl");
 
         raul.addRental(new Rental(hotFuzz, 2));
         raul.addRental(new Rental(toyStory, 6));

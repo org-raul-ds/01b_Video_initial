@@ -2,11 +2,11 @@ package es.uniovi.ds.lab.videostore;
 
 import java.util.*;
 
-public class Client {
+public class Customer {
     private String name;
     private List<Rental> rentals = new ArrayList<>();
 
-    public Client(String name) {
+    public Customer(String name) {
         this.name = name;
     }
 

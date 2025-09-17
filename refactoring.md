@@ -19,7 +19,7 @@ public class Rental {
 
 ```
 
-In `Client.java`, modify these two statements:
+In `Customer.java`, modify these two statements:
 
 ```java
 public void printReport() {
